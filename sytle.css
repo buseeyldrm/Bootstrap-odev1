@@ -1,0 +1,20 @@
+h2{
+    
+    color: coral;
+    
+}
+li{
+    list-style:inside;
+}
+body{
+    background-color: aliceblue;
+}
+
+a:hover{
+    color: gray;
+}
+
+a:active{
+    color: black;
+    text-decoration: double;
+}
